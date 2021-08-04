@@ -1,1 +1,1 @@
-# LEarning GIt in Vs-Code #1 lesson
+# Learning Git in Vs-Code #1 Lesson
